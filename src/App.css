@@ -1,0 +1,20 @@
+/* -------COMPONENTS-------- */
+
+/* ITEM CARD */
+
+.item-card{
+  display: flex;
+  justify-content: space-between;
+}
+
+/* HEADER */
+.header{
+padding: 0px 80px;
+}
+
+/* -------CONTAINERS-------- */
+.container{
+  display: grid;
+  place-items: center;
+}
+
